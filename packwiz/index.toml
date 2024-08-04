@@ -1,6 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/data-loader.json"
+hash = "f476c1f7ff31376f1d4e7564f1ae647ba988d84554d4c8f2bfd2dac52cd8c146"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "datapacks/untitled/pack.mcmeta"
+hash = "0869a6cb6c242e8a3d66434e54a351b3ecb9ff369b7736059d958e8f18d47f0e"
+
+[[files]]
+file = "mods/dataloader.pw.toml"
+hash = "e8820fc71149a89d963842d10f5246978d378e152bc2d4a2aa1e6d9312816c56"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
