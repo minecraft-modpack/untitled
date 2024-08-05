@@ -5,6 +5,10 @@ file = "config/yosbr/config/data-loader.json"
 hash = "f476c1f7ff31376f1d4e7564f1ae647ba988d84554d4c8f2bfd2dac52cd8c146"
 
 [[files]]
+file = "config/yosbr/config/rocks.json"
+hash = "d868349a36e00446cdbc5b1c0e14ae0c3f362d9b18b8b9fb4b0a9e95b0312f1d"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -17,6 +21,18 @@ metafile = true
 file = "datapacks/navigable-rivers.pw.toml"
 hash = "f96409c0f5dfc08468df2ca16925b744ebab42910bafd3a7db4a7ed315c91055"
 metafile = true
+
+[[files]]
+file = "datapacks/untitled/data/earlystage/loot_table/blocks/flint.json"
+hash = "93796f0c33f551c80ee32474f152b704b72f0cd32a23f478e5da274ca7d61e48"
+
+[[files]]
+file = "datapacks/untitled/data/earlystage/tags/worldgen/biome/rock_feature_biomes.json"
+hash = "7b0e4d5effa2b4601e357931b5d1bdc126c9e6dd60da909d3d2b3bfc4758884c"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/loot_table/blocks/gravel.json"
+hash = "49f517bae0924d595452fbf519840efaf61c6db413b41d9653d3460731b53896"
 
 [[files]]
 file = "datapacks/untitled/data/minecraft/worldgen/configured_feature/ore_andesite.json"
@@ -55,6 +71,14 @@ file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_granite_up
 hash = "e7ba30ad82f524a524b83d97a156194c84885b11d9e5d695c24e0b817901f40f"
 
 [[files]]
+file = "datapacks/untitled/data/rocks/worldgen/configured_feature/rock.json"
+hash = "6e3144fa61532f7ad3513124822f242dca2968c640179d11912d151ce458367f"
+
+[[files]]
+file = "datapacks/untitled/data/rocks/worldgen/placed_feature/rock.json"
+hash = "4b4d75583c4f4fa798cb07750b899ef77360ac1518383a9af8d18b8a9970bc15"
+
+[[files]]
 file = "datapacks/untitled/data/wythers/worldgen/configured_feature/decor/stone_buttons.json"
 hash = "0bcaea2e8cd87e2c1b6206ba656c504dc178ec51890e9dd3aa859cebc846e797"
 
@@ -83,8 +107,13 @@ hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
 metafile = true
 
 [[files]]
+file = "mods/this-rocks.pw.toml"
+hash = "e1fe5089cd36a076dc1e9a54ec45d1d903736e8b33cb6a47c6fab2048d7c8c59"
+metafile = true
+
+[[files]]
 file = "mods/wwoo.pw.toml"
-hash = "3e62e3ed38bf1e9c4ed77f026d99b2143c10976d46273cfd20ad40692383e0f5"
+hash = "dc1645b81e22c25ff5751fcfe0153449d1483ea4ddaf08fab7d9cccdc7caa7ec"
 metafile = true
 
 [[files]]
