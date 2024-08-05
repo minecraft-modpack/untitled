@@ -1,0 +1,13 @@
+name = "EarlyStage"
+filename = "earlystage-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lw05gEDu/versions/L2L7XT8y/earlystage-1.1.1.jar"
+hash-format = "sha1"
+hash = "d5c7418f5cd55d56def181442809df4a27bf66db"
+
+[update]
+[update.modrinth]
+mod-id = "lw05gEDu"
+version = "L2L7XT8y"
