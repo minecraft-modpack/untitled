@@ -9,8 +9,62 @@ file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "datapacks/cliffs-and-coves.pw.toml"
+hash = "97365af06d7e20fe15e198cd9d421bd90303265c9fae0e2da0920fb3fde1055a"
+metafile = true
+
+[[files]]
+file = "datapacks/navigable-rivers.pw.toml"
+hash = "f96409c0f5dfc08468df2ca16925b744ebab42910bafd3a7db4a7ed315c91055"
+metafile = true
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/configured_feature/ore_andesite.json"
+hash = "cdf6e9c3a5f1e545b2bacfb917be1b251bf8f23a9ef44772025e6974e1595533"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/configured_feature/ore_diorite.json"
+hash = "ca4689f2c0ecf289eead90d27548d843a357f5f0df0d0d0035d01be516f34299"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/configured_feature/ore_granite.json"
+hash = "9c762298361acc714064a56541a4937639b3fe9534776daf434e869e67a5b348"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/configured_feature/ore_gravel.json"
+hash = "c6c6e2864c1dcb61bf178f48c5c8a47c5757f47cbabfdf329e755cf2a77da4cd"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_andesite_lower.json"
+hash = "2a2df6262dc620a31126c43bd9692bd476fdeb20a0c99b65cef76210fb558810"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_andesite_upper.json"
+hash = "76af39d1624d054c9e268f62c91f578178ff389b09908edf27a212c24e2f5498"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_diorite_lower.json"
+hash = "3175c9170dcfe87c3ff6892b3b0a8909fadc212fd9297fbf10cab8ccd8b466be"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_diorite_upper.json"
+hash = "6577d5000c2dc5202308bb2dc0b4acd2b2d9768b852dd962fe50038a7d88546b"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_granite_lower.json"
+hash = "fbea6bdc94f328fbd6c6ac4bd88a33239deaacb474c59236083d9ba4aee5c64e"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_granite_upper.json"
+hash = "571679f06dc8bc657bbe1bd08f060abee1c6e7bda675491ecfabbca605e23a9b"
+
+[[files]]
+file = "datapacks/untitled/data/wythers/worldgen/configured_feature/decor/stone_buttons.json"
+hash = "cbc0bb19f58451827863fba7721ba157d54102c6afa53cbf92631bb78082d39f"
+
+[[files]]
 file = "datapacks/untitled/pack.mcmeta"
-hash = "0869a6cb6c242e8a3d66434e54a351b3ecb9ff369b7736059d958e8f18d47f0e"
+hash = "a15875bea6d42a5dc18688c8a8577b488d6ec5cf9bc4219a67bbe2f3c674e522"
 
 [[files]]
 file = "mods/dataloader.pw.toml"
@@ -20,6 +74,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "3e62e3ed38bf1e9c4ed77f026d99b2143c10976d46273cfd20ad40692383e0f5"
 metafile = true
 
 [[files]]
