@@ -5,6 +5,10 @@ file = "config/yosbr/config/data-loader.json"
 hash = "f476c1f7ff31376f1d4e7564f1ae647ba988d84554d4c8f2bfd2dac52cd8c146"
 
 [[files]]
+file = "config/yosbr/config/earlystage.json5"
+hash = "c4130190172f81a7de04f92dc182720961b67108332631b7978fcea80a1a94e0"
+
+[[files]]
 file = "config/yosbr/config/rocks.json"
 hash = "d868349a36e00446cdbc5b1c0e14ae0c3f362d9b18b8b9fb4b0a9e95b0312f1d"
 
@@ -71,6 +75,18 @@ file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_granite_up
 hash = "e7ba30ad82f524a524b83d97a156194c84885b11d9e5d695c24e0b817901f40f"
 
 [[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/granite_rocks_biomes.json"
+hash = "ce6e65342a927c7231e85f2afff1d39fb2f900ff862ab587e58cf138261dc6bf"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/oak_log_biomes.json"
+hash = "27a56bfbf15e2ed5decb084bb75cc333c7965abcfe730fc24a0c51d3008fe93f"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/stone_rocks_biomes.json"
+hash = "c5294b96ed0d8d59933dd1f792b0b3f24fe530cc46d72c63585bd625a317ab6a"
+
+[[files]]
 file = "datapacks/untitled/data/rocks/worldgen/configured_feature/rock.json"
 hash = "6e3144fa61532f7ad3513124822f242dca2968c640179d11912d151ce458367f"
 
@@ -112,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+metafile = true
+
+[[files]]
+file = "mods/philips-biome-features.pw.toml"
+hash = "4d633aff0d09a400e517fc1cd7b058145058bb682d76d5f4de5eab6b2faa1d54"
 metafile = true
 
 [[files]]

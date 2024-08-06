@@ -1,0 +1,19 @@
+{
+  "replace": true,
+
+  "values": [
+    "minecraft:taiga",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_beach",
+    "minecraft:snowy_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:grove",
+    "minecraft:desert",
+    "minecraft:jungle",
+    "minecraft:sparse_jungle",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:swamp",
+    "minecraft:beach"
+  ]
+}
