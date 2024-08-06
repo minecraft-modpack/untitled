@@ -10,7 +10,7 @@ hash = "d868349a36e00446cdbc5b1c0e14ae0c3f362d9b18b8b9fb4b0a9e95b0312f1d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "c9742398abfc3b433256f2272f6735879e794e970a3fb00b40aa3d8b2917cca7"
 
 [[files]]
 file = "datapacks/cliffs-and-coves.pw.toml"
@@ -28,7 +28,7 @@ hash = "93796f0c33f551c80ee32474f152b704b72f0cd32a23f478e5da274ca7d61e48"
 
 [[files]]
 file = "datapacks/untitled/data/earlystage/tags/worldgen/biome/rock_feature_biomes.json"
-hash = "7b0e4d5effa2b4601e357931b5d1bdc126c9e6dd60da909d3d2b3bfc4758884c"
+hash = "6d39a6fbb0f437b62b16dac0bf37d2ed0ba4ca4631aa9ca65f72342fe8b6ce84"
 
 [[files]]
 file = "datapacks/untitled/data/minecraft/loot_table/blocks/gravel.json"
@@ -76,11 +76,19 @@ hash = "6e3144fa61532f7ad3513124822f242dca2968c640179d11912d151ce458367f"
 
 [[files]]
 file = "datapacks/untitled/data/rocks/worldgen/placed_feature/rock.json"
-hash = "4b4d75583c4f4fa798cb07750b899ef77360ac1518383a9af8d18b8a9970bc15"
+hash = "8553dab70f8670e5c7afafc142a2701733bdb48f31f8525bbc2b0f82ad507c28"
 
 [[files]]
 file = "datapacks/untitled/data/wythers/worldgen/configured_feature/decor/stone_buttons.json"
 hash = "0bcaea2e8cd87e2c1b6206ba656c504dc178ec51890e9dd3aa859cebc846e797"
+
+[[files]]
+file = "datapacks/untitled/data/wythers/worldgen/placed_feature/decor/floating_lanterns.json"
+hash = "710c35eeaba12081c9ee61f231f13dc9dafde795101c1923b402bd539d548aff"
+
+[[files]]
+file = "datapacks/untitled/data/wythers/worldgen/placed_feature/decor/floating_lanterns_cherry.json"
+hash = "710c35eeaba12081c9ee61f231f13dc9dafde795101c1923b402bd539d548aff"
 
 [[files]]
 file = "datapacks/untitled/pack.mcmeta"
@@ -120,3 +128,75 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/lang/en_us.json"
+hash = "0a2943a85e4c710fa385ec36cf57dff67b96bcc79c5b674666dce3f9115cfc7f"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/models/item/flint.json"
+hash = "e07699e33e9ae3e7b3c5ff5d620781ad0e660bf8f1b7ed815dbde729b40db1f5"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/block/steel_block.png"
+hash = "4c027dddc1060aa0ee43e12c09af772870e2780f99fcc911e517f0c07d908780"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_axe.png"
+hash = "debca01d8ec8d2f4f5fdb49e49ea4ebf0e69d64cda62654da8891cf3561d256c"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_boots.png"
+hash = "ea0d718dc7d77e9607e9c3a02498072863343671769147deab5a043b3ea0b10a"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_chestplate.png"
+hash = "a5b10f1bb53e68a7e0fa275797e573b31b5afc6d48a675093cf94e604d2a59ac"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_helmet.png"
+hash = "b34e64603cdb08063274f766b92dfc51fdab17f9aad43cfd2f3421c8c1572b3b"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_hoe.png"
+hash = "f699751842f01c5ba06fe81c9d1cdbac1d1c20621d7dc924ecd0c1f2f05fa258"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_ingot.png"
+hash = "0d33480b52f56275529f3dacfde7bddfdff0f40479f9c345eed54610aa5d2bfd"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_leggings.png"
+hash = "b183c26290772c042ab17bde8c8e5ddf41dcd9395a8e289abd7fd2f912d8338c"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_nugget.png"
+hash = "6228eb93a497e4f4229ba540f4dc11694857a49cf720de430dde1011add6498b"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_pickaxe.png"
+hash = "aca1bcfa6b2d3230f56c5453365904bebf78bcbba6f1fe70efb8ebf6d295c698"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_shovel.png"
+hash = "c94d4e53bea6311c06759343fba9551221ef50ca5b50aac86aa0a52bc896d281"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/steel_sword.png"
+hash = "7c9e42755ec41a172a08fe0d9945e795fa741ff2a9c8d838260ac60975ba87cd"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/item/stone_shears.png"
+hash = "0acb075304f9ddd520c3a8c698a05def74f87c00e8a2d81e07899ac87defe9cc"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/models/armor/steel_layer_1.png"
+hash = "10fcad2654ea261fac129f882d359b7fdc540cc2b1201e1f11f028d7e887d7ad"
+
+[[files]]
+file = "resourcepacks/untitled/assets/earlystage/textures/models/armor/steel_layer_2.png"
+hash = "ea91782c91ed2791c9f3a69bc73731dcc211880845678da8ca1c58e1d03ddb01"
+
+[[files]]
+file = "resourcepacks/untitled/pack.mcmeta"
+hash = "3717a3d1b175b4bc6a4837d49cccd0f10469677ca8a52a85c4329018b78ca5da"

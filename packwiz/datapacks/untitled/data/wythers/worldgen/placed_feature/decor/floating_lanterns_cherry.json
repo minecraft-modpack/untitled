@@ -1,0 +1,9 @@
+{
+  "feature": "wythers:decor/patch_floating_lanterns",
+  "placement": [
+    {
+		"type": "minecraft:count",
+		"count": 0
+    }
+  ]
+}
