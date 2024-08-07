@@ -1,10 +1,13 @@
 {
-  "replace": false,
+  "replace": true,
 
   "values": [
     "minecraft:badlands",
-    "minecraft:wooded_badlands",
     "minecraft:eroded_badlands",
-    "minecraft:dripstone_caves"
+    "minecraft:desert",
+    "minecraft:dripstone_caves",
+    "minecraft:wooded_badlands",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau"
   ]
 }

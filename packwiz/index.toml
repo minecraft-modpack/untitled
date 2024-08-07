@@ -75,8 +75,20 @@ file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_granite_up
 hash = "e7ba30ad82f524a524b83d97a156194c84885b11d9e5d695c24e0b817901f40f"
 
 [[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/andesite_rocks_biomes.json"
+hash = "bf1dc54f9c6891dfc1b500a886d02bdb789be6975f3ef878e9910ea5a5a47f5d"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/diorite_rocks_biomes.json"
+hash = "bf1dc54f9c6891dfc1b500a886d02bdb789be6975f3ef878e9910ea5a5a47f5d"
+
+[[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/granite_rocks_biomes.json"
-hash = "ce6e65342a927c7231e85f2afff1d39fb2f900ff862ab587e58cf138261dc6bf"
+hash = "536ae7c6bb827f15a11fca23ee6d2dd0679cf7f411f66ea1e331bd72f9569677"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/mossy_cobblestone_rocks_biomes.json"
+hash = "c79952a4018ca19b03a3fc5621e012bca1936815a468658ddf75d88684d75b30"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/oak_log_biomes.json"
@@ -84,7 +96,7 @@ hash = "27a56bfbf15e2ed5decb084bb75cc333c7965abcfe730fc24a0c51d3008fe93f"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/stone_rocks_biomes.json"
-hash = "c5294b96ed0d8d59933dd1f792b0b3f24fe530cc46d72c63585bd625a317ab6a"
+hash = "72af7d683f34db02796f7f1d37202df8ca07d2c1dd3f97e3cfc8dae3cf434603"
 
 [[files]]
 file = "datapacks/untitled/data/rocks/worldgen/configured_feature/rock.json"
@@ -111,6 +123,11 @@ file = "datapacks/untitled/pack.mcmeta"
 hash = "a15875bea6d42a5dc18688c8a8577b488d6ec5cf9bc4219a67bbe2f3c674e522"
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "3b4182d5fd25e524f21b8d3197267adb5237599ac15daed23411e17b6e27073c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
@@ -128,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+metafile = true
+
+[[files]]
+file = "mods/geocluster.pw.toml"
+hash = "dd88e63b3daaf7fcc91aa276ef194c7277428f0cc9bcb2ce3895f83efd7c0d52"
 metafile = true
 
 [[files]]
