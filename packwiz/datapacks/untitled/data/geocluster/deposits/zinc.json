@@ -1,0 +1,31 @@
+{
+  "type": "geocluster:deposit_sparse",
+  "config": {
+    "yMin": 34,
+    "yMax": 78,
+    "size": 32,
+    "spread": 10,
+    "biomeTag": "#minecraft:is_overworld",
+    "blocks": {
+      "default": [
+        {
+          "block": "geocluster:zinc_ore",
+          "chance": 1.0
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "geocluster:deepslate_zinc_ore",
+          "chance": 1.0
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geocluster:zinc_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 4
+  }
+}

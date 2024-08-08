@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "philipsbiomefeatures:stone_rocks",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 316789412,
+    "spacing": 14,
+    "separation": 7
+  }
+}

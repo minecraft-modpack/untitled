@@ -1,0 +1,43 @@
+{
+  "type": "geocluster:deposit_dike",
+  "config": {
+    "yMin": -25,
+    "yMax": 19,
+    "maxHeight": 4,
+    "baseRadius": 2,
+    "biomeTag": "#minecraft:is_overworld",
+    "blocks": {
+      "default": [
+        {
+          "block": "geocluster:platinum_ore",
+          "chance": 0.5
+        },
+        {
+          "block": null,
+          "chance": 0.5
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "geocluster:deepslate_platinum_ore",
+          "chance": 0.5
+        },
+        {
+          "block": null,
+          "chance": 0.5
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geocluster:platinum_ore_sample",
+        "chance": 0.75
+      },
+      {
+        "block": null,
+        "chance": 0.25
+      }
+    ],
+    "generationWeight": 2
+  }
+}

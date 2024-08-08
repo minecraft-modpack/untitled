@@ -1,0 +1,39 @@
+{
+  "type": "geocluster:deposit_sparse",
+  "config": {
+    "yMin": -16,
+    "yMax": 90,
+    "size": 20,
+    "spread": 5,
+    "biomeTag": "#minecraft:is_overworld",
+    "blocks": {
+      "default": [
+        {
+          "block": "copper_ore",
+          "chance": 0.9
+        },
+        {
+          "block": null,
+          "chance": 0.1
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "deepslate_copper_ore",
+          "chance": 0.9
+        },
+        {
+          "block": null,
+          "chance": 0.1
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geocluster:copper_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 3
+  }
+}

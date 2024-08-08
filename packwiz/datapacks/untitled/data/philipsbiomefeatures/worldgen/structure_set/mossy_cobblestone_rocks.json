@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "philipsbiomefeatures:mossy_cobblestone_rocks",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 152173921,
+    "spacing": 11,
+    "separation": 8
+  }
+}

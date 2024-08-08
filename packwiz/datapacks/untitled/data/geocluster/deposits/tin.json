@@ -1,0 +1,31 @@
+{
+  "type": "geocluster:deposit_sparse",
+  "config": {
+    "yMin": 44,
+    "yMax": 68,
+    "size": 24,
+    "spread": 8,
+    "biomeTag": "#minecraft:is_overworld",
+    "blocks": {
+      "default": [
+        {
+          "block": "geocluster:nickel_ore",
+          "chance": 1.0
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "deepslate_geocluster:nickel_ore",
+          "chance": 1.0
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geocluster:nickel_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 5
+  }
+}

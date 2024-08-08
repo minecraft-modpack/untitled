@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/ceramicbucket.toml"
+hash = "d85b7be8459852f96ffed4077826135ddb527490b8b6f9b70dc10e80a9d99078"
+
+[[files]]
 file = "config/yosbr/config/data-loader.json"
 hash = "f476c1f7ff31376f1d4e7564f1ae647ba988d84554d4c8f2bfd2dac52cd8c146"
 
@@ -9,8 +13,16 @@ file = "config/yosbr/config/earlystage.json5"
 hash = "c4130190172f81a7de04f92dc182720961b67108332631b7978fcea80a1a94e0"
 
 [[files]]
+file = "config/yosbr/config/geocluster.json"
+hash = "fef7ee3dc36aaf5196c842ebdb0cab5debe9f38de8a291d3eb1c3204c0cf573c"
+
+[[files]]
 file = "config/yosbr/config/rocks.json"
 hash = "d868349a36e00446cdbc5b1c0e14ae0c3f362d9b18b8b9fb4b0a9e95b0312f1d"
+
+[[files]]
+file = "config/yosbr/config/woodenbucket.toml"
+hash = "f86f789cdddcffa052f904ff5077a8b6afe683e780d5d69705bb39429bd0322e"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -33,6 +45,62 @@ hash = "93796f0c33f551c80ee32474f152b704b72f0cd32a23f478e5da274ca7d61e48"
 [[files]]
 file = "datapacks/untitled/data/earlystage/tags/worldgen/biome/rock_feature_biomes.json"
 hash = "6d39a6fbb0f437b62b16dac0bf37d2ed0ba4ca4631aa9ca65f72342fe8b6ce84"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/aluminium.json"
+hash = "a305582d9f9a439e1d0d3273749a9c2b2440f03c6124be68b05915aba873c6ad"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/copper.json"
+hash = "58f9d95b8eaae32f0180b2f20e32ba153ee21c408c0cad12b8037d8a1f32e409"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/iron.json"
+hash = "255824ad36ed713a9f360c10d333f2530481310c55930232bdd35a080765ef37"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/iron_marchy.json"
+hash = "4aab06a69f21b45caddaa143f729d84bce820a7e52c20e62d30cea0b86bc057a"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/iron_nickel.json"
+hash = "6c1984bbc11c0e1e03b6fb5c204eed3bc26ca6dd621e18e9dbe304bb7f01c1c3"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/lapis.json"
+hash = "75db4cdffab1f148960097562d8b3f433a24ec5f6b4871c31c8a918dbaac81b7"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/lead_silver.json"
+hash = "482fbff01c056556a93780178a468d8266a2136468bbd51a5afc42f076a7b7e3"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/platinum.json"
+hash = "d6d86fbe4c8b22374c2368b84d00a1c79655e93c4862320ed61f729cb40c1e9f"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/quartz.json"
+hash = "f61dc24ac8f301512f18e7bcd7381e69592fe9f2592d1d9203c192fc1e1b6471"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/redstone.json"
+hash = "d2beafc1230a7c60bab398268e5538032e14a0bbd0d1569ffb35cd55d4f396d3"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/tin.json"
+hash = "b1ec075973de85ae305341cf993e918ba57d673689b4533e3094c7ecd44d84c5"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/uranium.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/deposits/zinc.json"
+hash = "5a8fd1e2b21539a8eebf7abc3b9268744790201d414dcb81b2c99287ed26c025"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/tags/block/supports_sample.json"
+hash = "bfa66c06af35a59bfa3d7d1775989d70763b0bd65b51340b227004174035196b"
 
 [[files]]
 file = "datapacks/untitled/data/minecraft/loot_table/blocks/gravel.json"
@@ -76,11 +144,11 @@ hash = "e7ba30ad82f524a524b83d97a156194c84885b11d9e5d695c24e0b817901f40f"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/andesite_rocks_biomes.json"
-hash = "bf1dc54f9c6891dfc1b500a886d02bdb789be6975f3ef878e9910ea5a5a47f5d"
+hash = "bc831cbecb20275f93ebce465d504940b3feb114145e72af742f660888b6e9af"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/diorite_rocks_biomes.json"
-hash = "bf1dc54f9c6891dfc1b500a886d02bdb789be6975f3ef878e9910ea5a5a47f5d"
+hash = "ea90e3c5ae17cab182a10fa40e617ef1ab6dd42ff242441aedb87fce237d58e1"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/granite_rocks_biomes.json"
@@ -88,7 +156,7 @@ hash = "536ae7c6bb827f15a11fca23ee6d2dd0679cf7f411f66ea1e331bd72f9569677"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/mossy_cobblestone_rocks_biomes.json"
-hash = "c79952a4018ca19b03a3fc5621e012bca1936815a468658ddf75d88684d75b30"
+hash = "b94c3c4d8e672c0bdbfecdd7549aa12e52c5c68b9f1faa289021cadd2688bd90"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/oak_log_biomes.json"
@@ -96,7 +164,27 @@ hash = "27a56bfbf15e2ed5decb084bb75cc333c7965abcfe730fc24a0c51d3008fe93f"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/stone_rocks_biomes.json"
-hash = "72af7d683f34db02796f7f1d37202df8ca07d2c1dd3f97e3cfc8dae3cf434603"
+hash = "3376d458b72b0ab85813910f5aabfa6e4e82868d29886d07be71336727d92670"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/worldgen/structure_set/andesite_rocks.json"
+hash = "70694dd574fce7f08af4ef6759e54cbd4e38414d83a223541d7584303d24ca85"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/worldgen/structure_set/diorite_rocks.json"
+hash = "d719dae7b18cf779234dbff28a1b89c183a18824b8607361878a3e2a21de01b4"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/worldgen/structure_set/granite_rocks.json"
+hash = "13e224d287704537712ba57fb98cf109e3a93d7eca0c9c194ba3fd29231ee9ce"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/worldgen/structure_set/mossy_cobblestone_rocks.json"
+hash = "2e77fe498ec1ab22ab554fb79269d0368a741d6b853bb0c49a3581ffc7413c10"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/worldgen/structure_set/stone_rocks.json"
+hash = "4526a4683fc7a160016e546f0ebf9b04f7c2b3ab69036c025bc30f9e4d7c1200"
 
 [[files]]
 file = "datapacks/untitled/data/rocks/worldgen/configured_feature/rock.json"
@@ -123,13 +211,28 @@ file = "datapacks/untitled/pack.mcmeta"
 hash = "a15875bea6d42a5dc18688c8a8577b488d6ec5cf9bc4219a67bbe2f3c674e522"
 
 [[files]]
+file = "mods/bucketlib.pw.toml"
+hash = "86c16d0512e7f9e2be491fc6ed4ffb7f47d56cdca67c0bd5ef83ae25971f666f"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "3b4182d5fd25e524f21b8d3197267adb5237599ac15daed23411e17b6e27073c"
+hash = "8d3a73c7560528d03702aa42746a89990f7ddc255c7070e889fdc938ee264872"
+metafile = true
+
+[[files]]
+file = "mods/ceramic-bucket.pw.toml"
+hash = "614251b725517100260e0fe91c5de7a19180864ef1bbff377ff709e74d72838f"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "a833a66cb6e39fdeb501cddab96a9ad636fbfaf390b8953f5a04fd41183a5f96"
 metafile = true
 
 [[files]]
@@ -148,18 +251,28 @@ hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
 metafile = true
 
 [[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "1e3e7a232ee1395b948a96d7074dcda750bb2d3c3c0823220d0f7343ff559d55"
+metafile = true
+
+[[files]]
 file = "mods/geocluster.pw.toml"
 hash = "dd88e63b3daaf7fcc91aa276ef194c7277428f0cc9bcb2ce3895f83efd7c0d52"
 metafile = true
 
 [[files]]
 file = "mods/philips-biome-features.pw.toml"
-hash = "4d633aff0d09a400e517fc1cd7b058145058bb682d76d5f4de5eab6b2faa1d54"
+hash = "6b1d42aeec5c6ca8a8892d3b7876ea161b43b6ffdad1b6b2b0e25396a09d91e0"
 metafile = true
 
 [[files]]
 file = "mods/this-rocks.pw.toml"
 hash = "e1fe5089cd36a076dc1e9a54ec45d1d903736e8b33cb6a47c6fab2048d7c8c59"
+metafile = true
+
+[[files]]
+file = "mods/wooden-bucket.pw.toml"
+hash = "7fa1d4acf41b1b83ca5f449088f741be5c2bd55eefdc314d83018633214b260a"
 metafile = true
 
 [[files]]
@@ -241,5 +354,41 @@ file = "resourcepacks/untitled/assets/earlystage/textures/models/armor/steel_lay
 hash = "ea91782c91ed2791c9f3a69bc73731dcc211880845678da8ca1c58e1d03ddb01"
 
 [[files]]
+file = "resourcepacks/untitled/assets/minecraft/textures/item/bowl.png"
+hash = "6cf1209cbfb2a4c98ad6514533c4d1faf7c59623c853841b1181bd0308eb4065"
+
+[[files]]
+file = "resourcepacks/untitled/assets/minecraft/textures/item/campfire.png"
+hash = "0209eca54d7af292e0b5d0e546a5947eff10bfefb441334fb0f8a5f933d8f5b1"
+
+[[files]]
+file = "resourcepacks/untitled/assets/minecraft/textures/item/soul_campfire.png"
+hash = "0209eca54d7af292e0b5d0e546a5947eff10bfefb441334fb0f8a5f933d8f5b1"
+
+[[files]]
+file = "resourcepacks/untitled/assets/woodenbucket/textures/item/cracked_wooden_bucket.png"
+hash = "c92ebc0c537c6f45c6800634035230d3b91b37dcf78dc4614c7f5fcfb6ed90ea"
+
+[[files]]
+file = "resourcepacks/untitled/assets/woodenbucket/textures/item/lower_cracked_wooden_bucket.png"
+hash = "c92ebc0c537c6f45c6800634035230d3b91b37dcf78dc4614c7f5fcfb6ed90ea"
+
+[[files]]
+file = "resourcepacks/untitled/assets/woodenbucket/textures/item/lower_wooden_bucket.png"
+hash = "c6681e7df98cca9642da31eb124f811b5903345ffb496b248f6aa7e07ac96b70"
+
+[[files]]
+file = "resourcepacks/untitled/assets/woodenbucket/textures/item/wooden_bucket.png"
+hash = "c6681e7df98cca9642da31eb124f811b5903345ffb496b248f6aa7e07ac96b70"
+
+[[files]]
 file = "resourcepacks/untitled/pack.mcmeta"
 hash = "3717a3d1b175b4bc6a4837d49cccd0f10469677ca8a52a85c4329018b78ca5da"
+
+[[files]]
+file = "scripts/remove_conflict.zs"
+hash = "b59aa58837ba9d66b9441bd27cabb663f42260cdbed226ba00080cd4c8540c9e"
+
+[[files]]
+file = "scripts/replace_flint.zs"
+hash = "f00340ff20435f7ee730031f70e1dbe0c896e7623251c528283e576141c60b1b"

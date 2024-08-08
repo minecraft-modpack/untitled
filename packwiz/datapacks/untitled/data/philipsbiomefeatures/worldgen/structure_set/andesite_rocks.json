@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "philipsbiomefeatures:andesite_rocks",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 149983889,
+    "spacing": 10,
+    "separation": 7
+  }
+}

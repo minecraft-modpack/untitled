@@ -1,0 +1,13 @@
+name = "BucketLib"
+filename = "bucketlib-fabric-1.21-4.1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DItE655o/versions/5moW6kZK/bucketlib-fabric-1.21-4.1.0.0.jar"
+hash-format = "sha1"
+hash = "80b0b3cf71fec4ed4c3bb7341e866f2022607932"
+
+[update]
+[update.modrinth]
+mod-id = "DItE655o"
+version = "5moW6kZK"
