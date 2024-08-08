@@ -9,13 +9,13 @@
     "blocks": {
       "default": [
         {
-          "block": "geocluster:nickel_ore",
+          "block": "oritech:nickel_ore",
           "chance": 1.0
         }
       ],
       "minecraft:deepslate": [
         {
-          "block": "deepslate_geocluster:nickel_ore",
+          "block": "oritech:deepslate_nickel_ore",
           "chance": 1.0
         }
       ]

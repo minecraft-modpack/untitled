@@ -17,6 +17,10 @@ file = "config/yosbr/config/geocluster.json"
 hash = "fef7ee3dc36aaf5196c842ebdb0cab5debe9f38de8a291d3eb1c3204c0cf573c"
 
 [[files]]
+file = "config/yosbr/config/oritech-config.json5"
+hash = "547f4356d6374b2c0976a46c766ae15f0c99cfc40838f7072ccc93521a14b04c"
+
+[[files]]
 file = "config/yosbr/config/rocks.json"
 hash = "d868349a36e00446cdbc5b1c0e14ae0c3f362d9b18b8b9fb4b0a9e95b0312f1d"
 
@@ -64,11 +68,11 @@ hash = "4aab06a69f21b45caddaa143f729d84bce820a7e52c20e62d30cea0b86bc057a"
 
 [[files]]
 file = "datapacks/untitled/data/geocluster/deposits/iron_nickel.json"
-hash = "6c1984bbc11c0e1e03b6fb5c204eed3bc26ca6dd621e18e9dbe304bb7f01c1c3"
+hash = "7942d72df0c307fb730bb27763b1c650ecc47d9d8d0c140d6033c28cd72c028d"
 
 [[files]]
 file = "datapacks/untitled/data/geocluster/deposits/lapis.json"
-hash = "75db4cdffab1f148960097562d8b3f433a24ec5f6b4871c31c8a918dbaac81b7"
+hash = "6adb6b3e288273798e264aaf3ad7b88f54fcd3e09c1375d8638680c067e0159e"
 
 [[files]]
 file = "datapacks/untitled/data/geocluster/deposits/lead_silver.json"
@@ -88,7 +92,7 @@ hash = "d2beafc1230a7c60bab398268e5538032e14a0bbd0d1569ffb35cd55d4f396d3"
 
 [[files]]
 file = "datapacks/untitled/data/geocluster/deposits/tin.json"
-hash = "b1ec075973de85ae305341cf993e918ba57d673689b4533e3094c7ecd44d84c5"
+hash = "e8207b5a238cf7d5d3c56e48d8fc88bf7b038bb2a7cc5a6027e3f174ea139288"
 
 [[files]]
 file = "datapacks/untitled/data/geocluster/deposits/uranium.json"
@@ -99,8 +103,68 @@ file = "datapacks/untitled/data/geocluster/deposits/zinc.json"
 hash = "5a8fd1e2b21539a8eebf7abc3b9268744790201d414dcb81b2c99287ed26c025"
 
 [[files]]
+file = "datapacks/untitled/data/geocluster/loot_table/blocks/deepslate_nickel_ore.json"
+hash = "d91771058653080554b70fcf7320e87a8690aee7b374c025a93a46a3e38a9516"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/loot_table/blocks/deepslate_platinum_ore.json"
+hash = "0ed3e2d7c3a21984008f7decdb70801b24257de88438f22201727d9693d74cd4"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/loot_table/blocks/nickel_ore.json"
+hash = "f135e7bed0c2c6670864d87730da1fa291d262db570a2f71e6c94e62e0fc9fcb"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/loot_table/blocks/nickel_ore_sample.json"
+hash = "6e1cc0303c1bcdd855dbc2f546455cb87563f3ebd6f0ec5ea734655599a1759f"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/loot_table/blocks/platinum_ore.json"
+hash = "763cb3334e058375826b83bda4a733c8d548224c4ba9810bf0aa3f50f0e466a4"
+
+[[files]]
+file = "datapacks/untitled/data/geocluster/loot_table/blocks/platinum_ore_sample.json"
+hash = "d74fc233640675cf9a56e66ccc7847bf077845c69671a7fa40e287a3afee8616"
+
+[[files]]
 file = "datapacks/untitled/data/geocluster/tags/block/supports_sample.json"
 hash = "bfa66c06af35a59bfa3d7d1775989d70763b0bd65b51340b227004174035196b"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/cold_ocean.json"
+hash = "d43753a2adee4c83c82e52f49a7ccf541377db1aef1fd000764f20d547c72096"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/deep_cold_ocean.json"
+hash = "7ba46a5eec24ede8c060e61f21456dd076d26d3a5d737dd5b7c1f24b36c284dd"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/deep_frozen_ocean.json"
+hash = "e293d9d39707cbfac802fc592596f86c34cacae1547366503c2a83602aa3f40a"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/deep_lukewarm_ocean.json"
+hash = "2f19f57968781b93300e5b44560bb1322eb2aacd6568afd7f33f77e6bc981f82"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/deep_ocean.json"
+hash = "14d52e150aa42e3bdae5c299676a9bcd3b99684b08ed47f718fdb1e56868516f"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/frozen_ocean.json"
+hash = "10283e3b9f220aa61bef174a93807d8bb826debcf2ba83859849ea2a73e66883"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/lukewarm_ocean.json"
+hash = "309bfde8de0d7812320e7b72bdbf7fdcf6f7f9c419233e22fe640832074d7f1c"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/ocean.json"
+hash = "dd7fd8a0d3589448a38d546c0b630a39b678360a00e469b5b05272c5dd7b2e33"
+
+[[files]]
+file = "datapacks/untitled/data/minecraft/biome/warm_ocean.json"
+hash = "b51d7ac663bf50949797dae574ec881dc5141211e54c67a9269c2f9d2a71d9b2"
 
 [[files]]
 file = "datapacks/untitled/data/minecraft/loot_table/blocks/gravel.json"
@@ -143,6 +207,30 @@ file = "datapacks/untitled/data/minecraft/worldgen/placed_feature/ore_granite_up
 hash = "e7ba30ad82f524a524b83d97a156194c84885b11d9e5d695c24e0b817901f40f"
 
 [[files]]
+file = "datapacks/untitled/data/oritech/tags/item/biomass.json"
+hash = "9ce2fd0f246495d181a56e71cada1bff0feb96c919d5c900a867fceefd8a4443"
+
+[[files]]
+file = "datapacks/untitled/data/oritech/worldgen/configured_feature/resource_node_common.json"
+hash = "f33334cbe13d4c4887fd4d8f475ecaac4ff54bdb52cdc3fba4122d58cf25806c"
+
+[[files]]
+file = "datapacks/untitled/data/oritech/worldgen/configured_feature/resource_node_other.json"
+hash = "8c536aa10fd1be19ed10dc1df166738d74412b4907f76978907a7356d2d97de0"
+
+[[files]]
+file = "datapacks/untitled/data/oritech/worldgen/configured_feature/resource_node_rare.json"
+hash = "157d5f06b95fd8e4e20d6e7ae1cf991693dd2924d3a44ee8e4baf1efe435be29"
+
+[[files]]
+file = "datapacks/untitled/data/oritech/worldgen/placed_feature/resource_node_other.json"
+hash = "e8685de92f409de3ffe5b7cca21935c38372238dc45623981ff73808b8098006"
+
+[[files]]
+file = "datapacks/untitled/data/oritech/worldgen/placed_feature/resource_node_rare.json"
+hash = "3817f246d2c88b9e928ff3e067f0c459a9b418a64b31017df2a5e750ff5d4184"
+
+[[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/andesite_rocks_biomes.json"
 hash = "bc831cbecb20275f93ebce465d504940b3feb114145e72af742f660888b6e9af"
 
@@ -165,6 +253,10 @@ hash = "27a56bfbf15e2ed5decb084bb75cc333c7965abcfe730fc24a0c51d3008fe93f"
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/tags/worldgen/biome/has_structure/stone_rocks_biomes.json"
 hash = "3376d458b72b0ab85813910f5aabfa6e4e82868d29886d07be71336727d92670"
+
+[[files]]
+file = "datapacks/untitled/data/philipsbiomefeatures/worldgen/processor_list/rock.json"
+hash = "88795a2b1cf786e35503f399aed9a7534dfceade7095dc9502afcff0751969a0"
 
 [[files]]
 file = "datapacks/untitled/data/philipsbiomefeatures/worldgen/structure_set/andesite_rocks.json"
@@ -209,6 +301,11 @@ hash = "710c35eeaba12081c9ee61f231f13dc9dafde795101c1923b402bd539d548aff"
 [[files]]
 file = "datapacks/untitled/pack.mcmeta"
 hash = "a15875bea6d42a5dc18688c8a8577b488d6ec5cf9bc4219a67bbe2f3c674e522"
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "0d8ef9622d79bb6da1290c564b11800992ea360cfaaa02783ddf0f687739a90c"
+metafile = true
 
 [[files]]
 file = "mods/bucketlib.pw.toml"
@@ -256,8 +353,28 @@ hash = "1e3e7a232ee1395b948a96d7074dcda750bb2d3c3c0823220d0f7343ff559d55"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "d5d726aacfb80dbe7cc8da290ea3d9557d4fcb5dfa2078d69ac276cdeff485b2"
+metafile = true
+
+[[files]]
 file = "mods/geocluster.pw.toml"
 hash = "dd88e63b3daaf7fcc91aa276ef194c7277428f0cc9bcb2ce3895f83efd7c0d52"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "950fa2f1932db70d0173ba4867a4944d84113215f7f4bb984378cfff26719151"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "fcb87cd5ad703229b112670912a4d5e4d1efe0bb0a928c957c0fe37a3ff9fce0"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "349f5aa9192539c3ce0d2c962ae05a2b4d75a75635c5e28c3f718fda72c79b71"
 metafile = true
 
 [[files]]
@@ -352,6 +469,30 @@ hash = "10fcad2654ea261fac129f882d359b7fdc540cc2b1201e1f11f028d7e887d7ad"
 [[files]]
 file = "resourcepacks/untitled/assets/earlystage/textures/models/armor/steel_layer_2.png"
 hash = "ea91782c91ed2791c9f3a69bc73731dcc211880845678da8ca1c58e1d03ddb01"
+
+[[files]]
+file = "resourcepacks/untitled/assets/geocluster/models/block/deepslate_nickel_ore.json"
+hash = "21a90c9e8d24218eb1c3c0a3cc40b147ef222b330eb3e5a99bb5f67fc4f98f41"
+
+[[files]]
+file = "resourcepacks/untitled/assets/geocluster/models/block/deepslate_platinum_ore.json"
+hash = "71ad6eaa3ab2a833e244d4ecbf4cf90a258afe92e22b2d51312405f84f1ee08b"
+
+[[files]]
+file = "resourcepacks/untitled/assets/geocluster/models/block/nickel_ore.json"
+hash = "49b6b185d2a2a0e69ab659f9afbdb8077ce565dad495b6f93c7d4c8cd2418de3"
+
+[[files]]
+file = "resourcepacks/untitled/assets/geocluster/models/block/nickel_ore_sample.json"
+hash = "634e9d097da2c3cafd9658004805069305bad019c0e1fef424f08889472f92d0"
+
+[[files]]
+file = "resourcepacks/untitled/assets/geocluster/models/block/platinum_ore_sample.json"
+hash = "d1c8e16d5eb02bcd5f058b58e43163cd65347fdbd7a2b18324c005a42dc1445a"
+
+[[files]]
+file = "resourcepacks/untitled/assets/geocluster/textures/block/platinum_ore.png"
+hash = "60bda3d06527e8b877b56bf62c75d45538d355ede296d1f8a76717556524c6c3"
 
 [[files]]
 file = "resourcepacks/untitled/assets/minecraft/textures/item/bowl.png"

@@ -1,0 +1,39 @@
+{
+  "type": "oritech:resource_node",
+  "config": {
+    "nodeSize": 5,
+    "boulderRadius": 3,
+    "nodeOres": [
+      "oritech:resource_node_copper",
+      "oritech:resource_node_copper",
+      "oritech:resource_node_copper",
+      "oritech:resource_node_iron",
+      "oritech:resource_node_iron",
+      "oritech:resource_node_nickel",
+      "oritech:resource_node_nickel",
+      "oritech:resource_node_coal",
+      "oritech:resource_node_coal",
+      "minecraft:bedrock"
+    ],
+    "boulderOres": [
+      "minecraft:iron_ore",
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:stone",
+      "minecraft:coal_ore",
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:stone",
+      "oritech:nickel_ore",
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:copper_ore",
+      "minecraft:stone",
+      "minecraft:andesite"
+    ],
+    "overlayBlock": "oritech:oil_fluid_block",
+    "overlayHeight": 3
+  }
+}

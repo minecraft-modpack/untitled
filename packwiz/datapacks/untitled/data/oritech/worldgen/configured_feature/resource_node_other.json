@@ -1,0 +1,29 @@
+{
+  "type": "oritech:resource_node",
+  "config": {
+    "nodeSize": 5,
+    "boulderRadius": 3,
+    "nodeOres": [
+      "oritech:resource_node_gold",
+      "oritech:resource_node_nickel",
+      "oritech:resource_node_lapis",
+      "oritech:resource_node_lapis",
+      "oritech:resource_node_redstone",
+      "oritech:resource_node_redstone",
+      "oritech:resource_node_redstone",
+      "minecraft:bedrock"
+    ],
+    "boulderOres": [
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:andesite",
+      "minecraft:stone",
+      "minecraft:stone",
+      "minecraft:andesite"
+    ],
+    "overlayBlock": "oritech:oil_fluid_block",
+    "overlayHeight": 3
+  }
+}
