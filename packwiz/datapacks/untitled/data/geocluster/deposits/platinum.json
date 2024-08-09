@@ -19,7 +19,7 @@
       ],
       "minecraft:deepslate": [
         {
-          "block": "geocluster:deepslate_platinum_ore",
+          "block": "oritech:deepslate_platinum_ore",
           "chance": 0.5
         },
         {

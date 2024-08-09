@@ -18,9 +18,6 @@
     "minecraft:snowy_taiga",
     "minecraft:sparse_jungle",
     "minecraft:sunflower_plains",
-    "minecraft:taiga",
-    "minecraft:windswept_forest",
-    "minecraft:windswept_gravelly_hills",
-    "minecraft:windswept_hills"
+    "minecraft:taiga"
   ]
 }
